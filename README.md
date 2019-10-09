@@ -82,3 +82,5 @@ Choose one of above or all 3, make a pull request for your contributions and wai
 
 [twitter-img]: https://i.imgur.com/wWzX9uB.png
 [github-img]: https://i.imgur.com/9I6NRUm.png
+
+change in readme

@@ -1,6 +1,8 @@
 void Main()
 {
-    Console.WriteLine(Hello.World.ToString());
+    string text = Hello.World.ToString() + "From VietNam with Love <3";
+    
+    Console.WriteLine(text);
 }
 
 public static class Hello
